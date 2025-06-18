@@ -1,6 +1,6 @@
 ## 📊 Bank Customer Churn Prediction App:
 This project is a Streamlit web application that predicts whether a customer is likely to leave (churn) from a bank, using various customer-related features and a machine learning model trained on historical data.
-## Demod web app:
+## Demo: web app
 <img width="860" alt="Screenshot 2025-06-18 at 12 31 32 PM" src="https://github.com/user-attachments/assets/2c3aa484-9782-4386-a680-52462ccd06b0" />
 <img width="972" alt="Screenshot 2025-06-18 at 12 30 17 PM" src="https://github.com/user-attachments/assets/3be72a04-6d55-4987-9b77-a5841927aa93" />
 ## 🚀 Features:
